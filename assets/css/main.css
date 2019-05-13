@@ -664,6 +664,11 @@ input, select, textarea {
 			display: block;
 		}
 		
+		.image.logo {
+			width: 3.5rem;
+			height: 3.5rem;
+		}
+		
 		.image.left, .image.right {
 			max-width: 50%;
 		}
